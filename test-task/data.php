@@ -1,0 +1,68 @@
+<?php
+
+return [
+    [
+        'title' => 'Lorem ipsum dolor sit amet ',
+        'description' => 'Adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy ',
+        'cost' => '$249',
+        'discountCost' =>'$299',
+        'new' => true,
+        'img'  => 'images/img1.png',
+    ],
+    [
+        'title' => 'Lorem ipsum dolor sit amet ',
+        'description' => 'Adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy ',
+        'cost' => '$249',
+        'discountCost' => null,
+        'new' => false,
+        'img'  => 'images/img2.png',
+    ],
+    [
+        'title' => 'Lorem ipsum dolor sit amet ',
+        'description' => 'Adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy ',
+        'cost' => '$249',
+        'new' => true,
+        'discountCost' => null,
+        'img'  => 'images/img3.png',
+    ],
+    [
+        'title' => 'Lorem ipsum dolor sit amet ',
+        'description' => 'Adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy ',
+        'cost' => '$249',
+        'discountCost' =>'$299',
+        'new' => false,
+        'img'  => 'images/img4.png',
+    ],
+    [
+        'title' => 'Lorem ipsum dolor sit amet ',
+        'description' => 'Adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy ',
+        'cost' => '$249',
+        'discountCost' => null,
+        'new' => true,
+        'img'  => 'images/img5.png',
+    ],
+    [
+        'title' => 'Lorem ipsum dolor sit amet ',
+        'description' => 'Adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy ',
+        'cost' => '$249',
+        'discountCost' => null,
+        'new' => true,
+        'img'  => 'images/img6.png',
+    ],
+    [
+        'title' => 'Lorem ipsum dolor sit amet ',
+        'description' => 'Adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy ',
+        'cost' => '$249',
+        'discountCost' => '$299',
+        'new' => false,
+        'img'  => 'images/img7.png',
+    ],
+    [
+        'title' => 'Lorem ipsum dolor sit amet ',
+        'description' => 'Adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy ',
+        'cost' => '$249',
+        'discountCost' => null,
+        'new' => false,
+        'img'  => 'images/img8.png',
+    ],
+];
